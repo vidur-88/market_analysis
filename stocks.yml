@@ -1,0 +1,69 @@
+NSE:
+  STOCKS:
+    SECTORS:
+      AUTOMOBILE:
+        BAJAJ-AUTO: 0.74
+        HEROMOTOCO: 0.58
+        EICHERMOT: 0.51
+        M&M: 0.76
+        MARUTI: 1.59
+        TATAMOTORS: 0.36
+      CEMENT:
+        GRASIM: 0.52
+        SHREECEM: 0.65
+        ULTRACEMCO: 1.05
+      CONSUMER_GOODS:
+        ITC: 4.18
+        HINDUNILVR: 4.59
+        BRITANNIA: 0.88
+        NESTLEIND: 1.62
+        TITAN: 1.09
+        ASIANPAINT: 2.1
+      ENERGY:
+        ONGC: 0.7
+        NTPC: 1.14
+        POWERGRID: 1.14
+        BPCL: 0.71
+        IOC: 0.58
+        RELIANCE: 10.06
+        GAIL: 0.4
+      ENGINEERING:
+        LT: 2.79
+      FERTILIZER:
+        UPL: 0.5
+      FINANCIAL_SERVICES:
+        AXISBANK: 2.39
+        HDFCBANK: 10.42
+        ICICIBANK: 5.85
+        INDUSINDBK: 0.59
+        KOTAKBANK: 4.85
+        SBIN: 2.11
+        BAJFINANCE: 1.64
+        BAJAJFINSV: 0.78
+        HDFC: 7.88
+      INFORMATION_TECHNOLOGY:
+        HCLTECH: 1.32
+        INFY: 6.56
+        TCS: 5.36
+        TECHM: 0.98
+        WIPRO: 0.82
+      MEDIA_ENTERTAINMENT:
+        ZEEL: 0.32
+      METALS_MINING:
+        HINDALCO: 0.39
+        VEDL: 0.33
+        JSWSTEEL: 0.41
+        TATASTEEL: 0.57
+        COALINDIA: 0.82
+      PHARMA:
+        CIPLA: 0.6
+        DRREDDY: 1.06
+        SUNPHARMA: 1.06
+      SHIPPING:
+        ADANIPORTS: 0.54
+      TELECOM:
+        INDUSTOWER: 0.38
+        BHARTIARTL: 2.75
+
+
+
